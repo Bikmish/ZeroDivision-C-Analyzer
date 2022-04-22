@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.Vsix\\DividingAnalyzer.Vsix.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\DividingAnalyzer.CodeFixes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\DividingAnalyzer.CodeFixes.csproj",
+        "projectName": "DividingAnalyzer.CodeFixes",
+        "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\DividingAnalyzer.CodeFixes.csproj",
+        "packagesPath": "C:\\Users\\bikmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\NuGet.Config",
+          "C:\\Users\\bikmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj": {
+                "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.Vsix\\DividingAnalyzer.Vsix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.Vsix\\DividingAnalyzer.Vsix.csproj",
+        "projectName": "DividingAnalyzer.Vsix",
+        "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.Vsix\\DividingAnalyzer.Vsix.csproj",
+        "packagesPath": "C:\\Users\\bikmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.Vsix\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\NuGet.Config",
+          "C:\\Users\\bikmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\DividingAnalyzer.CodeFixes.csproj": {
+                "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.CodeFixes\\DividingAnalyzer.CodeFixes.csproj"
+              },
+              "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj": {
+                "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[15.1.192, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj",
+        "projectName": "*DividingAnalyzer.csproj*",
+        "projectPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer.csproj",
+        "packagesPath": "C:\\Users\\bikmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\DividingAnalyzer\\DividingAnalyzer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bikmi\\source\\repos\\DividingAnalyzer\\NuGet.Config",
+          "C:\\Users\\bikmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

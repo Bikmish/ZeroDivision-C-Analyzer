@@ -1,0 +1,23 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="DividingAnalyzer.aa14b0bd-1ba1-47e6-a14f-0d32abfe663d" Version="1.0" Language="en-US" Publisher="bikmi" />
+    <DisplayName>DividingAnalyzer</DisplayName>
+    <Description xml:space="preserve">This is a sample diagnostic extension for the .NET Compiler Platform ("Roslyn").</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0,)" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="DividingAnalyzer.dll" />
+    <Asset Type="Microsoft.VisualStudio.Analyzer" Path="DividingAnalyzer.dll" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="DividingAnalyzer.CodeFixes.dll" />
+    <Asset Type="Microsoft.VisualStudio.Analyzer" Path="DividingAnalyzer.CodeFixes.dll" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,)" DisplayName="Visual Studio core editor" />
+    <Prerequisite Id="Microsoft.VisualStudio.Component.Roslyn.LanguageServices" Version="[15.0,)" DisplayName="Roslyn Language Services" />
+  </Prerequisites>
+</PackageManifest>

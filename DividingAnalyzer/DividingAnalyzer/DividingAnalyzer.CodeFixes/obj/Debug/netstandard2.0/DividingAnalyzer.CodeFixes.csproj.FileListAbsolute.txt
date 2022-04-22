@@ -1,0 +1,15 @@
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\bin\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.deps.json
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\bin\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.dll
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\bin\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.pdb
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\bin\Debug\netstandard2.0\DividingAnalyzer.dll
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\bin\Debug\netstandard2.0\DividingAnalyzer.pdb
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixResources.resources
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.csproj.GenerateResource.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.AssemblyInfo.cs
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.csproj.CopyComplete
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.dll
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.CodeFixes\obj\Debug\netstandard2.0\DividingAnalyzer.CodeFixes.pdb

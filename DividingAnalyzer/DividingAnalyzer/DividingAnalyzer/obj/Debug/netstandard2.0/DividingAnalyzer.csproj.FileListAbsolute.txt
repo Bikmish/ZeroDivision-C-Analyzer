@@ -1,0 +1,12 @@
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\bin\Debug\netstandard2.0\DividingAnalyzer.deps.json
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\bin\Debug\netstandard2.0\DividingAnalyzer.dll
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\bin\Debug\netstandard2.0\DividingAnalyzer.pdb
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.csproj.AssemblyReference.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.Resources.resources
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.csproj.GenerateResource.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.AssemblyInfoInputs.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.AssemblyInfo.cs
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.dll
+C:\Users\bikmi\source\repos\DividingAnalyzer\DividingAnalyzer\DividingAnalyzer\obj\Debug\netstandard2.0\DividingAnalyzer.pdb

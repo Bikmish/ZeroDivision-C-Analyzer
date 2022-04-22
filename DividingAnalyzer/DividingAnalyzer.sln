@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingAnalyzer", "DividingAnalyzer\DividingAnalyzer\DividingAnalyzer.csproj", "{2E452A0C-FE47-4E79-B070-360C8B87DAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingAnalyzer.CodeFixes", "DividingAnalyzer\DividingAnalyzer.CodeFixes\DividingAnalyzer.CodeFixes.csproj", "{53AE14F7-7A73-4762-A9C0-1D60798873E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingAnalyzer.Package", "DividingAnalyzer\DividingAnalyzer.Package\DividingAnalyzer.Package.csproj", "{299F705A-161E-4195-BA97-398B10A8FF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingAnalyzer.Test", "DividingAnalyzer\DividingAnalyzer.Test\DividingAnalyzer.Test.csproj", "{1BB85E56-6701-45BC-BC1B-9BDB3BCF03D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingAnalyzer.Vsix", "DividingAnalyzer\DividingAnalyzer.Vsix\DividingAnalyzer.Vsix.csproj", "{F72926D7-0255-4486-98C0-C74B1E074FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E452A0C-FE47-4E79-B070-360C8B87DAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E452A0C-FE47-4E79-B070-360C8B87DAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E452A0C-FE47-4E79-B070-360C8B87DAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E452A0C-FE47-4E79-B070-360C8B87DAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AE14F7-7A73-4762-A9C0-1D60798873E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AE14F7-7A73-4762-A9C0-1D60798873E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AE14F7-7A73-4762-A9C0-1D60798873E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AE14F7-7A73-4762-A9C0-1D60798873E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299F705A-161E-4195-BA97-398B10A8FF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299F705A-161E-4195-BA97-398B10A8FF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299F705A-161E-4195-BA97-398B10A8FF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299F705A-161E-4195-BA97-398B10A8FF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB85E56-6701-45BC-BC1B-9BDB3BCF03D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB85E56-6701-45BC-BC1B-9BDB3BCF03D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB85E56-6701-45BC-BC1B-9BDB3BCF03D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB85E56-6701-45BC-BC1B-9BDB3BCF03D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72926D7-0255-4486-98C0-C74B1E074FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72926D7-0255-4486-98C0-C74B1E074FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72926D7-0255-4486-98C0-C74B1E074FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72926D7-0255-4486-98C0-C74B1E074FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC77934C-A7F3-4A95-A535-455FEB80F85D}
+	EndGlobalSection
+EndGlobal
